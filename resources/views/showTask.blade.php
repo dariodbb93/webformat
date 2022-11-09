@@ -2,7 +2,7 @@
     <div class="container-fluid backgroundContainer min-vh-100  d-flex align-items-center justify-content-center">
         <div class="row justify-content-center">
             <div class="col-12 text-center">
-                <h1> Task assegnati agli sviluppatori </h1>
+                <h1> Task assegnati agli sviluppatori (VENGONO VISUALIZZATI SOLO I TASK IN CORSO) </h1>
                 <table class="table table-dark table-sm">
                     <thead>
                         <tr>
